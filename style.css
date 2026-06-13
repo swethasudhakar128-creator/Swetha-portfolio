@@ -38,3 +38,16 @@ p{
     display:block;
     margin:20px auto;
 }
+
+.project-highlight{
+    background:white;
+    border-left:6px solid #2d5be3;
+    padding:15px;
+    margin:15px 0;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.project-highlight h3{
+    color:#2d5be3;
+}
